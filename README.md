@@ -11,3 +11,5 @@ Key areas of analysis include:
 6.	Price-Sales Relationship: Investigating the correlation between product prices and sales volumes, including the impact of discounts and price variability.
 
 The project is executed using Python and libraries such as Pandas, NumPy, Matplotlib, and Seaborn, ensuring robust data processing, analysis, and visualisation. Key deliverables include detailed visualisations, statistical analyses, and data-driven recommendations that address the retailer’s most pressing challenges and opportunities. This project not only demonstrates technical proficiency but also showcases the ability to apply data-driven strategies to real-world business scenarios.
+
+The data analysis which includes insights and recommendation is in the 'Ecommerce Data' document.
