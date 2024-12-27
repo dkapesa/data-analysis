@@ -13,3 +13,5 @@ Key areas of analysis include:
 The project is executed using Python and libraries such as Pandas, NumPy, Matplotlib, and Seaborn, ensuring robust data processing, analysis, and visualisation. Key deliverables include detailed visualisations, statistical analyses, and data-driven recommendations that address the retailer’s most pressing challenges and opportunities. This project not only demonstrates technical proficiency but also showcases the ability to apply data-driven strategies to real-world business scenarios.
 
 The data analysis which includes insights and recommendation is in the 'Ecommerce Data' document.
+
+Link to the Python code: https://colab.research.google.com/drive/1vSaDwEnb0L5Q8VuuyMCpA3Gxkigvd-Pu?usp=sharing
