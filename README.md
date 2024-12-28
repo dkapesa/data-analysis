@@ -15,4 +15,5 @@ The project is executed using Python and libraries such as Pandas, NumPy, Matplo
 The data analysis which includes insights and recommendation is in the 'Ecommerce Data' document.
 
 Link to the document analysis: https://docs.google.com/document/d/1b9f0W6RSEKM50kGsOmq3bTahzB89XmOiVvIJiAevXvM/edit?usp=sharing
+
 Link to the Python code: https://colab.research.google.com/drive/1vSaDwEnb0L5Q8VuuyMCpA3Gxkigvd-Pu?usp=sharing
